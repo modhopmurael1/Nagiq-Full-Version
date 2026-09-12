@@ -233,4 +233,4 @@ This repository serves as the official landing page for NagiQ. The software is d
 **Get the most recent version of NagiQ today!**
 
 ---
-**Last updated:** 2026-09-12 09:59:12 UTC
+**Last updated:** 2026-09-12 13:29:47 UTC
